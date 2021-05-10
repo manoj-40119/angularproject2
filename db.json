@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "oneplus",
+      "tag": "reliable",
+      "stocks": 0,
+      "availability": "no"
+    },
+    {
+      "id": 2,
+      "name": "samsung",
+      "tag": "durable",
+      "stocks": 2,
+      "availability": "yes"
+    },
+    {
+      "id": 3,
+      "name": "iphone",
+      "tag": "branded",
+      "stocks": 4,
+      "availability": "yes"
+    },
+    {
+      "id": 4,
+      "name": "MI",
+      "tag": "branded",
+      "stocks": 0,
+      "availability": "no"
+    },
+    {
+      "id": 5,
+      "name": "Lenovo",
+      "tag": "Good",
+      "stocks": 5,
+      "availability": "yes"
+    },
+    {
+      "name": "LGphone",
+      "stocks": 2,
+      "tag": "Good",
+      "id": 6
+    }
+  ]
+}
